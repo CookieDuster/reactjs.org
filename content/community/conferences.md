@@ -17,6 +17,11 @@ September 13-15, 2021. Atlanta, GA, USA
 
 [Website](https://renderatl.com) - [Twitter](https://twitter.com/renderATL) - [Instagram](https://www.instagram.com/renderatl/) - [Facebook](https://www.facebook.com/renderatl/) - [LinkedIn](https://www.linkedin.com/company/renderatl)
 
+### React Day New York 2021 {#react-day-new-york-2021} 
+October 5th, 2021. Remote event.
+
+[Website](https://reactnewyork.com/) - [Twitter](https://twitter.com/ReactNewYork) - [LinkedIn](https://www.linkedin.com/company/crystallizeapi/)
+
 ### React Conference Live 2021 {#react-conference-live-2021} 
 October 7-8, 2021. In-person in Amsterdam, Netherlands + remote (hybrid event)
 
